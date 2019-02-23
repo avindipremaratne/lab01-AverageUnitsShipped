@@ -1,0 +1,11 @@
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 1\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.exe.config
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 1\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.exe
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 1\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.pdb
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 1\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.xml
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.vbprojResolveAssemblyReference.cache
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.MainForm.resources
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.Resources.resources
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.vbproj.GenerateResource.Cache
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.exe
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.xml
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.pdb
